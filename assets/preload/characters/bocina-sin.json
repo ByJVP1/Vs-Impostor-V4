@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-2,
+				-293
+			],
+			"anim": "anim",
+			"fps": 24,
+			"name": "stereo boom",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-2,
+				-293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "stereo boom"
+		},
+		{
+			"offsets": [
+				-2,
+				-293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "stereo boom"
+		},
+		{
+			"offsets": [
+				-2,
+				-293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "stereo boom"
+		},
+		{
+			"offsets": [
+				-2,
+				-293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "stereo boom"
+		},
+		{
+			"offsets": [
+				-2,
+				-293
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "stereo boom"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "sus/stereo_taken",
+	"position": [
+		180,
+		80
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		10,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

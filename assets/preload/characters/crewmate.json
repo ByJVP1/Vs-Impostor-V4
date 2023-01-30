@@ -1,0 +1,100 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-82,
+				-220
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "green idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-123,
+				-241
+			],
+			"anim": "singRIGHT",
+			"fps": 12,
+			"name": "green right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				23,
+				-254
+			],
+			"anim": "singDOWN",
+			"fps": 12,
+			"name": "green down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				153,
+				-231
+			],
+			"anim": "singLEFT",
+			"fps": 12,
+			"name": "green left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-59
+			],
+			"anim": "singUP",
+			"fps": 12,
+			"name": "green up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-97,
+				-172
+			],
+			"anim": "bopL",
+			"fps": 12,
+			"name": "silly dance left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-171
+			],
+			"anim": "bopR",
+			"fps": 12,
+			"name": "silly dance right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "sus/crewmate",
+	"position": [
+		60,
+		158
+	],
+	"healthicon": "crewmate",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		119,
+		27
+	],
+	"camera_position": [
+		30,
+		230
+	],
+	"sing_duration": 6.1,
+	"scale": 1.48
+}

@@ -1,0 +1,101 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-4,
+				2
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "danceRight",
+			"indices": [
+				5,
+				6,
+				7,
+				8,
+				9
+			],
+			"name": "bf_running idle"
+		},
+		{
+			"offsets": [
+				91,
+				29
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "bf_running left"
+		},
+		{
+			"offsets": [
+				-25,
+				-37
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "bf_running down"
+		},
+		{
+			"offsets": [
+				42,
+				69
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singUP",
+			"indices": [],
+			"name": "bf_running up"
+		},
+		{
+			"offsets": [
+				20,
+				32
+			],
+			"loop": false,
+			"fps": 12,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "bf_running right"
+		},
+		{
+			"offsets": [
+				-3,
+				0
+			],
+			"loop": false,
+			"fps": 13,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4
+			],
+			"name": "bf_running idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "sus/bf_running",
+	"position": [
+		60,
+		415
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		229
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

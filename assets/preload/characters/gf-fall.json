@@ -1,0 +1,61 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				260,
+				-9
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "danceLeft",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6
+			],
+			"name": "GF Dancing Beat"
+		},
+		{
+			"offsets": [
+				260,
+				-9
+			],
+			"loop": false,
+			"fps": 18,
+			"anim": "danceRight",
+			"indices": [
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "GF Dancing Beat"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "sus/gffall",
+	"position": [
+		690,
+		110
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		-350,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 2.1
+}
