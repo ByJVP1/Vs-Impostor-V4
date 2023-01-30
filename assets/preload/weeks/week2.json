@@ -1,22 +1,59 @@
 {
-	"songs": [
-		["Spookeez", "spooky", [34, 51, 68]],
-		["South", "spooky", [34, 51, 68]],
-		["Monster", "monster", [34, 51, 68]]
+	"storyName": "amongus-2",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sus-1",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"spooky",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "halloween",
-
-	"storyName": "Spooky Month",
-	"weekBefore": "week1",
-	"weekName": "Week 2",
+	"weekBefore": "tutorial",
 	"startUnlocked": true,
-
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"sussus toogus",
+			"crewmate",
+			[
+				20,
+				140,
+				40
+			]
+		],
+		[
+			"lights down",
+			"impostor3",
+			[
+				20,
+				140,
+				40
+			]
+		],
+		[
+			"reactor",
+			"impostor3",
+			[
+				20,
+				120,
+				40
+			]
+		],
+		[
+			"ejected",
+			"parasite",
+			[
+				0,
+				60,
+				40
+			]
+		]
+	],
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"weekName": "Custom Week",
+	"hiddenUntilUnlocked": false
 }

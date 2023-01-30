@@ -1,22 +1,22 @@
 {
 	"songs": [
-		["Senpai", "senpai-pixel", [255, 120, 191]],
-		["Roses", "senpai-pixel", [255, 120, 191]],
-		["Thorns", "spirit-pixel", [255, 120, 191]]
+		["Delusion", "gray", [117, 103, 137]],
+		["Blackout", "gray", [117, 103, 137]],
+		["Neurotic", "gray", [117, 103, 137]]
 	],
 
 	"weekCharacters": [
-		"senpai",
-		"bf",
-		"gf"
+		"",
+		"",
+		""
 	],
-	"weekBackground": "school",
+	"weekBackground": "",
 
-	"storyName": "hating simulator ft. moawling",
-	"weekBefore": "week5",
+	"storyName": "Deadly Delusion",
+	"weekBefore": "",
 	"weekName": "Week 6",
 	"startUnlocked": true,
-
+	"difficulties": "hard",
 	"hideStoryMode": false,
 	"hideFreeplay": false
 }

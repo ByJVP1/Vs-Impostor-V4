@@ -1,22 +1,68 @@
 {
-	"songs": [
-		["Pico", "pico", [148, 22, 83]],
-		["Philly Nice", "pico", [148, 22, 83]],
-		["Blammed", "pico", [148, 22, 83]]
+	"storyName": "amongus-3",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "sus-2",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
 	],
-
-	"weekCharacters": [
-		"pico",
-		"bf",
-		"gf"
-	],
-	"weekBackground": "philly",
-
-	"storyName": "PICO",
-	"weekBefore": "week2",
-	"weekName": "Week 3",
 	"startUnlocked": true,
-
 	"hideStoryMode": false,
-	"hideFreeplay": false
+	"songs": [
+		[
+			"mando",
+			"yellow",
+			[
+				255,
+				233,
+				35
+			]
+		],
+		[
+			"dlow",
+			"yellow",
+			[
+				255,
+				233,
+				35
+			]
+		],
+		[
+			"oversight",
+			"white",
+			[
+				215,
+				215,
+				220
+			]
+		],
+		[
+			"danger",
+			"black",
+			[
+				35,
+				0,
+				35
+			]
+		],
+		[
+			"double kill",
+			"whiteblack",
+			[
+				115,
+				60,
+				115
+			]
+		]
+	],
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Custom Week"
 }

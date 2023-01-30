@@ -1,19 +1,19 @@
 {
 	"songs": [
 		[
-			"defeat",
-			"black",
+			"finale",
+			"suspussy",
 			[
-				40,
-				0,
-				0
+				226,
+				73,
+				93
 			]
 		]
 	],
 	"hiddenUntilUnlocked": false,
 	"hideFreeplay": false,
-	"weekBackground": "stage",
-	"difficulties": "0-5, 1-5, 2-5, 3-5, 4-5, 5-5",
+	"weekBackground": "uwuuwuw",
+	"difficulties": "Hard",
 	"weekCharacters": [
 		"dad",
 		"bf",
@@ -22,11 +22,11 @@
 	"storyName": "Your New Week",
 	"weekName": "Custom Week",
 	"freeplayColor": [
-		146,
-		113,
-		253
+		58,
+		27,
+		79
 	],
 	"hideStoryMode": true,
-	"weekBefore": "tutorial",
+	"weekBefore": "negrosputos",
 	"startUnlocked": true
 }
